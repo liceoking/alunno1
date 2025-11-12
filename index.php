@@ -1,6 +1,6 @@
 <?php
 
-$var "Ciao mondo";
+$hello = "Ciao mondo";
 
 ?>
 
