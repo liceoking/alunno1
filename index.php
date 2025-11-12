@@ -12,7 +12,7 @@ $hello = "Ciao mondo";
   <link href="style.css" rel="stylesheet" />
 </head>
 <body>
-<? echo $var; ?>
+<? echo $hello; ?>
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
   <script>
   </script>
